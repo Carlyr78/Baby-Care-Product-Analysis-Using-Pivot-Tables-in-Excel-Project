@@ -1,5 +1,5 @@
 # Baby-Care-Product-Analysis-Using-Pivot-Tables-in-Excel-Project
-Project from 365DataSciencex.com
+Project from 365DataScience.com
 
 Case Description
 
