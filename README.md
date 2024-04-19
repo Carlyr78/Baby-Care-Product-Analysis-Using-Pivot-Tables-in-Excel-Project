@@ -26,5 +26,6 @@ Insert pivot table slicers that allow you to filter for:
 package type
 package size
 product attributes
+
 Align the slicers layout with the design of the primary report table.
 
